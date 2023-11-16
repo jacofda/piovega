@@ -1,2 +1,2 @@
-const modules = ['@nuxtjs/color-mode', '@nuxtjs/google-fonts', '@pinia/nuxt', 'nuxt-swiper'];
+const modules = ["@pinia/nuxt"];
 export default modules;

@@ -1,5 +1,5 @@
 const devtools = {
-  enabled: true,
+  enabled: false,
 };
 
 export default devtools;
